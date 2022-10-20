@@ -1,5 +1,7 @@
 import img from './assets/image.png';
 import "./index.css";
+import initApp from './src/app';
+initApp();
 
 console.log('Hello World!');
 
